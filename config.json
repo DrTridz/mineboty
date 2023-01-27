@@ -1,6 +1,6 @@
 {
     "ip": "rmal.aternos.me",
-    "port": "36036",
+    "port": 36036,
     "password": "",
     "prefix": "",
     "login-enabled": "false",
